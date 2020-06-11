@@ -1,0 +1,19 @@
+Observation id,2.1.6,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03628.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-07-15 10:33:08,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+visitors,NO,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+69.922,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03628.MP4,107.610,29.97,,moving,EVENT,,START
+76.420,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03628.MP4,107.610,29.97,,moving,EVENT,,STOP

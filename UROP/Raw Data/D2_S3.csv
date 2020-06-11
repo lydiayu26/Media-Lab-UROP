@@ -1,0 +1,517 @@
+Observation id,D2_S3,,,,,,,,
+,,,,,,,,,
+Media file(s),,,,,,,,,
+,,,,,,,,,
+Player #1,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,,,,,,,,
+,,,,,,,,,
+Observation date,7/31/19 10:00,,,,,,,,
+,,,,,,,,,
+Description,,,,,,,,,
+,,,,,,,,,
+Time offset (s),0,,,,,,,,
+,,,,,,,,,
+independent variables,,,,,,,,,
+variable,value,,,,,,,,
+visitors,YES,,,,,,,,
+,,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status,Music
+0.655,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+144.907,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+147.916,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+166.416,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+169.438,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+180.949,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+202.708,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+209.209,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+213.482,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+214.479,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+224.985,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+229.498,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+230.995,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,START,NO
+232.492,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+234.493,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+278.54,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+279.038,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,START,NO
+279.549,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,STOP,NO
+280.299,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+281.298,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+285.051,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+297.555,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+304.316,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+387.651,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+388.148,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+396.153,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+396.184,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+397.166,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+397.416,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+397.664,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+410.671,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+529.918,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+588.344,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,NO
+589.343,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,NO
+590.094,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+603.097,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+652.415,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,START,NO
+652.913,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,STOP,NO
+655.346,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+659.624,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,YES
+663.125,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,YES
+666.382,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,START,YES
+668.381,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,STOP,YES
+669.133,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+678.139,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+721.139,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+721.94,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+724.939,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+726.189,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+763.193,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+765.193,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+779.187,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+779.441,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+780.249,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+781,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+810.752,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+811.03,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+817.281,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+820.283,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nibbling,BEHAVIOR,,START,NO
+822.536,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nibbling,BEHAVIOR,,STOP,NO
+823.54,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+828.293,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+828.793,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,NO
+829.294,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,NO
+830.794,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+830.799,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+831.8,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+833.049,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+838.051,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+846.813,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+848.312,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+851.319,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,START,YES
+851.818,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,STOP,YES
+863.318,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+942.654,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+943.653,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1004.405,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1009.906,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1011.652,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1013.727,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1013.981,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1015.482,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,START,NO
+1016.978,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+1034.237,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1034.736,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1035.734,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1036.256,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1139.848,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+1145.107,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+1145.363,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+1157.866,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+1158.616,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+1160.371,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+1168.378,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1169.127,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1178.635,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1179.134,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1184.135,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1185.639,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1196.881,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1203.416,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1204.166,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1219.682,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1220.181,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1237.681,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1238.184,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1250.206,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1250.709,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1266.214,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1270.715,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1272.237,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1274.739,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1276.744,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1286.492,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1286.746,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,START,NO
+1288.244,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+1289.993,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+1295.245,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+1296.244,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1310.496,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1311.995,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1370.498,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1372.242,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1441.156,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1441.407,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+1444.157,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+1444.657,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1446.66,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1446.913,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+1450.914,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+1451.412,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1454.17,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1456.673,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1457.174,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1457.425,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1501.432,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1523.931,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1586.298,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1586.797,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1615.798,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1616.802,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1622.299,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1624.298,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1630.295,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1630.394,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1633.649,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1634.4,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1653.15,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1653.404,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1654.92,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1655.919,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1668.918,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1669.435,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,NO
+1670.685,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,NO
+1670.941,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1672.188,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+1673.938,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,YES
+1675.188,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+1678.693,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+1687.943,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+1689.942,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1700.944,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1712.219,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1714.72,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1715.715,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1723.721,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1723.992,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,NO
+1725.491,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,NO
+1727.238,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+1729.996,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+1730.995,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+1742.245,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+1745.749,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1750.996,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1753.27,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1754.266,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1755.272,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+1755.524,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+1757.022,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+1757.023,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1768.021,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+1774.776,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1776.275,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1790.778,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1791.774,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+1794.522,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+1795.023,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1803.562,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1804.314,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1819.084,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1819.836,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1835.09,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1835.839,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1853.355,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1853.355,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1853.872,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1855.369,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+1856.373,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,YES
+1862.125,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,YES
+1863.381,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+1864.382,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+1868.883,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1883.638,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+1902.419,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1903.169,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1963.222,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1963.476,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1982.727,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1983.747,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1984.252,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+1985.001,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1985.248,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+1993.762,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+1995.512,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+1996.013,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2011.272,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2012.023,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2025.531,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2026.03,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2039.045,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2039.54,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2072.08,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2072.581,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2081.59,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2082.591,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2084.099,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2084.351,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2096.098,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2105.364,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2105.862,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2105.872,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2115.384,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2115.63,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2115.885,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2116.384,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+2118.133,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2135.388,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+2172.938,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2173.434,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2175.188,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2175.938,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2194.691,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2195.211,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2197.214,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2197.712,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,NO
+2198.467,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,NO
+2198.966,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+2202.713,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+2203.468,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+2205.968,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2208.218,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+2208.222,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+2208.977,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+2214.475,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+2223.228,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+2226.481,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+2229.232,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+2234.747,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+2235.497,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+2236.503,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,YES
+2237.754,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,YES
+2238.251,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2244.255,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+2255.263,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2256.262,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2265.528,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2265.783,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2272.537,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2273.039,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2283.054,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2283.547,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2306.474,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2306.969,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2365.284,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+2366.025,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+2407.821,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2408.326,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+2416.076,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+2418.576,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2422.585,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+2426.589,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+2427.09,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,YES
+2429.344,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,YES
+2430.095,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+2430.844,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+2433.85,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2443.097,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,NO
+2453.361,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+2455.122,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2461.108,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+2463.609,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2466.12,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2467.119,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2467.881,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+2504.385,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+2504.923,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+2515.674,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+2516.171,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2516.174,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2518.423,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2522.285,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+2572.925,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+2582.838,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+2600.359,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+2600.61,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,START,NO
+2602.858,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+2636.365,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2639.155,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2639.654,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2651.413,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2652.163,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2654.669,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2704.421,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2713.671,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2715.17,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2716.918,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2720.17,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2739.421,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2739.757,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2746.76,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2749.006,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2758.007,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2758.757,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2762.757,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2763.255,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2766.006,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2943.787,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2962.471,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2962.477,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2967.738,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2970.236,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2971.739,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2971.739,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2981.238,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+2981.238,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2985.739,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+2986.736,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3017.745,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+3017.745,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3021.241,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+3021.519,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nibbling,BEHAVIOR,,START,NO
+3025.517,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nibbling,BEHAVIOR,,STOP,NO
+3025.772,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,NO
+3027.277,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,NO
+3028.279,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+3034.783,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3039.284,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3039.781,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,YES
+3044.796,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,YES
+3048.293,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3050.045,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3052.546,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,START,YES
+3053.799,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,STOP,YES
+3056.048,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3062.304,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3066.558,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,START,YES
+3067.812,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,STOP,YES
+3072.314,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+3073.566,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+3076.32,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3078.323,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3079.327,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+3080.326,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+3081.828,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3085.327,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3087.333,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,START,YES
+3090.332,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,head whips,EVENT,,STOP,YES
+3091.584,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+3098.345,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+3105.348,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+3115.841,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+3117.611,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+3117.611,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3120.366,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3121.113,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3125.366,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3125.869,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+3128.873,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+3129.628,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,NO
+3130.876,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3131.127,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,NO
+3131.129,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3132.376,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+3133.626,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3139.884,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3141.381,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3143.139,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3148.387,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+3149.141,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+3152.394,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,START,YES
+3152.899,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,STOP,YES
+3154.395,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,YES
+3154.896,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+3155.652,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,START,YES
+3155.652,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,YES
+3155.909,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+3156.654,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,bobbing,EVENT,,STOP,YES
+3167.408,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+3168.914,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,START,YES
+3169.415,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+3169.916,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,nodding,EVENT,,STOP,YES
+3173.922,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+3174.668,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+3174.923,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+3179.92,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+3180.922,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+3189.44,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+3190.688,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3191.437,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3191.937,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3192.69,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+3198.945,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+3199.451,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3203.944,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3204.446,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3237.979,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3238.731,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3275.265,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3275.766,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3279.274,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3289.025,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3289.525,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3298.784,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3306.049,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3306.542,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3320.301,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3320.804,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3432.067,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+3432.067,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3438.557,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+3439.56,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3472.065,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3473.313,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3590.314,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3667.815,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+3678.314,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+3689.317,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3746.807,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3763.108,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3764.108,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3794.139,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3794.638,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3797.635,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+3800.143,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+3800.143,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+3838.651,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+3840.685,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+3875.936,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+3876.446,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3883.226,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3883.48,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+3884.23,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+3885.728,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+3886.732,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+3907.741,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+3908.002,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,YES
+3908.003,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+3910.755,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+3914.753,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+3939.766,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+3942.785,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+4047.394,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+4048.389,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+4055.401,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+4055.401,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+4059.895,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+4061.139,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+4062.655,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+4087.143,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+4088.184,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,START,NO
+4099.688,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+4102.196,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,pruning,BEHAVIOR,,STOP,NO
+4104.699,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+4130.701,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+4132.206,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+4143.227,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+4144.226,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+4150.734,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+4152.247,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,NO
+4153.494,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+4153.737,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,START,YES
+4154.001,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,YES
+4154.498,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+4155.248,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+4155.751,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,YES
+4162.749,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,START,YES
+4170.01,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+4171.517,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+4172.015,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+4176.519,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,YES
+4177.017,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,YES
+4189.526,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,music,MUSIC,,STOP,YES
+4199.79,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+4200.79,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+4220.069,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,START,NO
+4220.564,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,vocalization,EVENT,,STOP,NO
+4223.816,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+4229.57,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO
+4236.562,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,START,NO
+4239.179,/Users/lydiayu/Documents/Photos/mergedSessions/D2_S3_output.mov,4239.62,29.97,,moving,EVENT,,STOP,NO

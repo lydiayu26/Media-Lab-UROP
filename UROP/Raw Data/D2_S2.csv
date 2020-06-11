@@ -1,0 +1,379 @@
+Observation id,D2_S2,,,,,,,,
+,,,,,,,,,
+Media file(s),,,,,,,,,
+,,,,,,,,,
+Player #1,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,,,,,,,,
+,,,,,,,,,
+Observation date,7/29/19 12:13,,,,,,,,
+,,,,,,,,,
+Description,,,,,,,,,
+,,,,,,,,,
+Time offset (s),0,,,,,,,,
+,,,,,,,,,
+independent variables,,,,,,,,,
+variable,value,,,,,,,,
+visitors,YES,,,,,,,,
+,,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status,Music
+5.872,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+23.875,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+25.875,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+27.377,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+30.895,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+33.894,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+47.904,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,NO
+48.655,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,NO
+65.17,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+66.919,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+129.243,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,NO
+129.741,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,NO
+188.047,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,NO
+188.797,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,NO
+316.425,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+329.675,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+331.174,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+342.175,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+343.675,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+353.924,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+354.175,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+357.674,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+361.087,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+366.588,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+367.836,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+369.609,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+370.585,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+371.587,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+372.835,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+376.085,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+378.083,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+382.838,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+384.836,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+387.865,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+388.118,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+393.868,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+395.617,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+405.118,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+407.117,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+415.368,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+417.523,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+432.774,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+433.273,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+441.041,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+443.788,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+447.303,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+448.052,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+461.303,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+461.934,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+465.803,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+466.553,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+474.549,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+474.801,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+481.052,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+481.59,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,NO
+502.34,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,NO
+509.088,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+531.836,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+532.388,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+550.139,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+552.137,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+560.64,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+563.637,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+565.137,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+566.889,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+575.091,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+580.215,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+583.389,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+583.889,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,NO
+584.893,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,NO
+585.641,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+586.143,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+588.888,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+597.178,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+599.889,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+601.409,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+602.907,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+605.908,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+607.158,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+608.439,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+609.744,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+611.669,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+612.949,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+618.668,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,YES
+620.428,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,YES
+621.177,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+630.678,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+633.682,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+634.925,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+662.213,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,NO
+662.713,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,NO
+663.222,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+665.221,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+665.969,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+666.971,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+670.722,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+672.225,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+751.308,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+751.308,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,NO
+751.807,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,NO
+755.807,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,START,NO
+757.058,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+835.06,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+850.056,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+851.557,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+855.557,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+856.307,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+867.308,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+867.56,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+871.807,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+872.31,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,NO
+891.56,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,NO
+891.945,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+894.45,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+894.45,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+953.445,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+953.761,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,NO
+982.26,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,NO
+985.761,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+989.761,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+990.157,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+991.01,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1008.552,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1035.051,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1035.339,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,NO
+1036.094,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,NO
+1036.844,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+1038.095,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1045.096,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1045.345,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1047.1,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1048.355,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1064.865,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1065.116,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1068.113,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1069.613,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1071.127,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1074.13,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,YES
+1074.63,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,YES
+1076.131,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1078.13,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1081.382,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1082.386,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1087.137,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1089.646,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1090.142,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1093.396,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1094.402,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1098.148,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1098.4,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1100.406,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1100.905,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1104.157,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1108.163,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1110.167,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1114.164,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1116.417,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1118.674,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1120.424,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1124.179,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1127.679,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1128.684,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1130.687,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1132.687,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1133.436,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1135.689,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1138.44,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1140.197,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1141.197,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1144.947,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1150.696,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1153.195,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,YES
+1156.696,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,YES
+1157.963,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1161.962,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1162.463,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,YES
+1165.968,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,YES
+1167.468,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1169.717,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1172.749,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,YES
+1178.228,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,YES
+1179.485,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1181.486,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1184.24,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1184.741,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1189.738,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,YES
+1191.749,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+1202.761,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,NO
+1203.261,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,NO
+1204.51,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,NO
+1205.77,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,YES
+1223.768,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+1235.783,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,YES
+1240.795,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+1241.294,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,NO
+1268.326,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,NO
+1269.577,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,NO
+1272.577,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+1277.826,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1281.826,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1284.825,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1285.843,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,YES
+1294.102,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,YES
+1294.352,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1296.859,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1297.855,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+1299.855,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+1300.857,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1311.863,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+1312.36,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1312.872,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+1316.621,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1318.376,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1320.876,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1321.882,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,NO
+1323.379,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,NO
+1324.128,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+1325.378,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,YES
+1330.128,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,YES
+1333.638,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1334.449,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1336.639,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1338.389,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1340.645,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1341.643,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1342.396,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+1344.897,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+1349.654,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+1375.218,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+1377.969,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1379.719,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1424.965,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1431.598,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1438.216,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1438.719,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1443.719,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1445.802,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,START,NO
+1447.052,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+1448.302,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1479.304,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1479.805,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+1488.809,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+1492.349,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,NO
+1493.844,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,NO
+1495.347,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1541.353,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1545.856,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1552.852,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1554.353,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1649.849,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1650.758,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,NO
+1651.763,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,NO
+1653.754,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+1654.761,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+1656.763,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1695.178,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1696.009,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1709.053,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1709.567,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+1712.066,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1713.065,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1718.012,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1718.564,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,NO
+1795.575,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,NO
+1799.573,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1803.071,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1805.662,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1820.673,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1821.168,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,START,NO
+1888.662,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,eating,BEHAVIOR,,STOP,NO
+1896.242,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+1897.748,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1906.248,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+1919.243,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1927.246,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1928.285,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1929.281,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,START,NO
+1933.785,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1934.285,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+1939.789,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+1940.284,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1968.294,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1971.781,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+1972.791,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+1981.333,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1988.58,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1991.581,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1995.08,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+1999.577,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2008.081,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2010.579,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2017.368,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2018.367,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,NO
+2020.365,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,NO
+2020.629,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+2022.874,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2030.378,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+2032.878,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+2036.891,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+2037.397,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+2039.394,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+2041.4,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2042.898,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+2043.401,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+2044.401,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+2052.903,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+2054.398,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+2054.903,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2057.911,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+2058.414,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,START,YES
+2059.915,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,head whips,EVENT,,STOP,YES
+2062.917,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,YES
+2063.915,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,YES
+2064.916,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2071.919,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+2072.915,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+2088.192,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,YES
+2093.946,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,YES
+2094.945,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,NO
+2095.947,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,NO
+2108.95,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,START,NO
+2110.451,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+2278.882,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,START,NO
+2288.379,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,pruning,BEHAVIOR,,STOP,NO
+2289.378,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+2294.879,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+2295.884,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2296.903,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2301.9,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+2304.905,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+2306.402,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,YES
+2313.168,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,START,YES
+2314.167,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,vocalization,EVENT,,STOP,YES
+2314.67,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2322.738,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+2358.926,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2361.92,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,START,NO
+2362.922,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+2374.416,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+2380.177,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+2380.671,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,YES
+2382.442,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+2398.713,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+2401.452,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+2577.133,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,NO
+2581.138,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,NO
+2584.633,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,NO
+2585.648,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,START,YES
+2587.646,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+2590.649,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+2596.654,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+2609.164,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,START,YES
+2611.17,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,bobbing,EVENT,,STOP,YES
+2628.171,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,music,MUSIC,,STOP,YES
+2667.921,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,START,NO
+2680.922,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,moving,EVENT,,STOP,NO
+2686.745,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2755.242,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2760.57,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2840.321,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+2842.32,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,START,NO
+2924.933,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/mergedSessions/D2_S2_output_F.mov,2925,29.97,,standing on one leg,BEHAVIOR,,STOP,NO

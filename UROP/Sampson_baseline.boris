@@ -1,0 +1,150 @@
+{
+ "time_format":"hh:mm:ss",
+ "project_date":"2019-08-13T14:08:21",
+ "project_name":"Sampson_baseline",
+ "project_description":"",
+ "project_format_version":"7.0",
+ "subjects_conf":{},
+ "behaviors_conf":{
+  "0":{
+   "type":"State event",
+   "key":"b",
+   "code":"bobbing",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  },
+  "1":{
+   "type":"State event",
+   "key":"w",
+   "code":"head whips",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  },
+  "2":{
+   "type":"State event",
+   "key":"n",
+   "code":"nodding",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  },
+  "3":{
+   "type":"State event",
+   "key":"p",
+   "code":"pruning",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  },
+  "4":{
+   "type":"State event",
+   "key":"j",
+   "code":"vocalization positive",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  },
+  "5":{
+   "type":"State event",
+   "key":"f",
+   "code":"vocalization negative",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  },
+  "6":{
+   "type":"State event",
+   "key":"i",
+   "code":"nibbling",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  },
+  "7":{
+   "type":"State event",
+   "key":"e",
+   "code":"eating",
+   "description":"",
+   "category":"",
+   "modifiers":"",
+   "excluded":"",
+   "coding map":""
+  }
+ },
+ "observations":{
+  "BaselineFriday":{
+   "file":{
+    "1":[
+     "/Users/lydiayu/Documents/Photos/mergedSessions/Friday_21_B_output.mov"
+    ],
+    "2":[],
+    "3":[],
+    "4":[],
+    "5":[],
+    "6":[],
+    "7":[],
+    "8":[]
+   },
+   "type":"MEDIA",
+   "date":"2019-08-13T17:08:58",
+   "description":"",
+   "time offset":0.0,
+   "events":[],
+   "independent_variables":{
+    "VISITORS?":"YES"
+   },
+   "visualize_spectrogram":false,
+   "visualize_waveform":false,
+   "close_behaviors_between_videos":false,
+   "media_info":{
+    "length":{
+     "/Users/lydiayu/Documents/Photos/mergedSessions/Friday_21_B_output.mov":4920.73
+    },
+    "fps":{
+     "/Users/lydiayu/Documents/Photos/mergedSessions/Friday_21_B_output.mov":59.94
+    },
+    "hasVideo":{
+     "/Users/lydiayu/Documents/Photos/mergedSessions/Friday_21_B_output.mov":true
+    },
+    "hasAudio":{
+     "/Users/lydiayu/Documents/Photos/mergedSessions/Friday_21_B_output.mov":true
+    },
+    "offset":{
+     "1":0.0
+    }
+   }
+  }
+ },
+ "behavioral_categories":[
+  "EVENT",
+  "BEHAVIOR"
+ ],
+ "independent_variables":{
+  "0":{
+   "label":"VISITORS?",
+   "description":"",
+   "type":"text",
+   "default value":"NO",
+   "possible values":""
+  }
+ },
+ "coding_map":{},
+ "behaviors_coding_map":[],
+ "converters":{}
+}

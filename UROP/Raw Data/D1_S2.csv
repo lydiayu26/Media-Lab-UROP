@@ -1,0 +1,167 @@
+Observation id,D1_S2,,,,,,,,
+,,,,,,,,,
+Media file(s),,,,,,,,,
+,,,,,,,,,
+Player #1,/Users/anushkaray/Desktop/D1_S2_output.mp4,,,,,,,,
+,,,,,,,,,
+Observation date,7/25/19 13:40,,,,,,,,
+,,,,,,,,,
+Description,,,,,,,,,
+,,,,,,,,,
+Time offset (s),0,,,,,,,,
+,,,,,,,,,
+independent variables,,,,,,,,,
+variable,value,,,,,,,,
+Visitors,YES,,,,,,,,
+,,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status,Music
+36.405,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+36.903,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+38.152,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+39.904,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+40.661,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+42.932,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+44.428,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+47.168,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+47.427,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+49.435,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+53.922,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+59.921,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+60.43,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+60.93,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+69.441,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,START,NO
+92.443,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,New video starts after this,STOP,NO
+667.533,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,START,YES
+696.551,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,YES
+699.557,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,YES
+719.547,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,STOP,YES
+722.088,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+722.59,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,START,YES
+723.081,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+732.116,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+735.613,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+737.612,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+741.611,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+749.611,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+750.61,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+752.113,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+752.611,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+764.625,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,STOP,YES
+765.115,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+766.134,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+767.625,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,START,YES
+770.112,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,START,YES
+770.594,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,STOP,YES
+777.137,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+778.14,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+779.142,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+779.144,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,STOP,YES
+779.642,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,NO
+780.646,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,START,YES
+782.144,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,STOP,YES
+789.149,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+808.66,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+815.659,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+824.161,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+826.188,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+828.182,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+829.182,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+831.697,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+832.205,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,START,NO
+832.708,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,STOP,NO
+834.207,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,START,NO
+835.203,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,STOP,NO
+835.697,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+839.696,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+841.195,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+846.2,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+850.21,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+852.209,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+853.71,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+855.205,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+860.708,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+865.207,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+873.7,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+874.206,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+874.71,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+878.207,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+878.709,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+881.206,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+882.708,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+887.204,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+888.208,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+890.707,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+891.705,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+902.208,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+906.208,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+909.211,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+943.53,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,START,YES
+948.562,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Pruning,Behavior,,START,YES
+950.067,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Pruning,Behavior,,STOP,YES
+950.57,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,START,YES
+960.06,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,STOP,YES
+990.076,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,STOP,NO
+996.111,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Stretching,Behavior,,START,NO
+1002.609,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Stretching,Behavior,,STOP,NO
+1023.611,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+1025.112,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+1025.612,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,START,NO
+1028.152,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,NO
+1029.109,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Moving,Event,,STOP,NO
+1029.152,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,NO
+1029.646,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,START,NO
+1030.149,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,STOP,NO
+1030.649,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,START,YES
+1062.65,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+1067.151,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+1073.187,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1075.696,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1076.682,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1078.691,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1079.687,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1081.693,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1083.189,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1085.69,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1088.69,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1090.188,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1092.69,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1094.19,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1096.689,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1099.191,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1101.692,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+1104.191,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+1112.685,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+1113.693,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+1116.194,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,START,YES
+1118.194,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Bobbing,Event,,STOP,YES
+1118.692,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1119.193,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1119.244,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,START,YES
+1119.745,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,STOP,YES
+1124.741,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,START,YES
+1134.745,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1135.736,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,STOP,YES
+1136.743,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1137.746,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1141.243,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1145.244,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1146.761,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1149.76,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,START,YES
+1150.262,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Head Whips,Event,,STOP,YES
+1162.759,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Music,Music,,STOP,YES
+1163.76,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,START,NO
+1165.761,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,STOP,NO
+1166.279,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Nodding,Event,,START,NO
+1166.782,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Nodding,Event,,STOP,NO
+1178.791,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,START,NO
+1200.803,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,START,NO
+1201.302,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Vocalization,Event,,STOP,NO
+1217.802,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Standing on one leg,Behavior,,STOP,NO
+1221.804,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Pruning,Behavior,,START,NO
+1223.308,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Pruning,Behavior,,STOP,NO
+1228.348,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Stretching,Behavior,,START,NO
+1230.346,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Stretching,Behavior,,STOP,NO
+1235.348,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Pruning,Behavior,,START,NO
+1240.359,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Pruning,Behavior,,STOP,NO
+1246.582,/Users/anushkaray/Desktop/D1_S2_output.mp4,1246.75,29.97,,Pruning,Behavior,,START,NO
+1246.75,/Users/anushkaray/Desktop/D1_S2_output.mp5,1246.75,29.97,,Pruning,Behavior,,STOP,NO

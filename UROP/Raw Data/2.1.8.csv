@@ -1,0 +1,63 @@
+Observation id,2.1.8,,,,,,,,
+,,,,,,,,,
+Media file(s),,,,,,,,,
+,,,,,,,,,
+Player #1,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,,,,,,,,
+,,,,,,,,,
+Observation date,7/15/19 17:30,,,,,,,,
+,,,,,,,,,
+Description,,,,,,,,,
+,,,,,,,,,
+Time offset (s),0,,,,,,,,
+,,,,,,,,,
+independent variables,,,,,,,,,
+variable,value,,,,,,,,
+visitors,NO,,,,,,,,
+,,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status,Music?
+33.901,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+36.651,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+36.937,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+46.657,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+47.157,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+52.157,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+52.408,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+64.407,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+65.038,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+67.935,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+68.185,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+111.687,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+113.936,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+124.186,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+124.685,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+128.058,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+132.687,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+137.44,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+140.464,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+143.449,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+143.949,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+145.514,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+145.514,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+149.015,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+149.516,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+151.015,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+151.519,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+163.021,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+163.271,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+165.522,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+165.772,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+175.271,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+175.641,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+182.521,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+188.019,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+195.772,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+195.772,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+210.14,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+213.141,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+245.772,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+246.149,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+251.02,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+257.521,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,START,NO
+261.772,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,moving,EVENT,,STOP,NO
+312.772,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,START,NO
+345.896,/Volumes/ZOO_MM_DATA/ZOO/JoyBranchData/recordings/April2019/DJ_macaw/Day2_april10/Session1_a_Sam_JB/MAH03631.MP4,346.35,29.97,,standing on one leg,BEHAVIOR,,STOP,NO

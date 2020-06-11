@@ -1,0 +1,6 @@
+Day,Session,Activity,Event or behavior?,Visitors?,Music?,Time Start,Time End
+2,1.12,M,EVENT,YES,NO,0:00,0:01
+2,1.12,L,BEHAVIOR,YES,NO,0:01,0:26
+2,1.12,L,BEHAVIOR,YES,NO,0:27,0:42
+2,1.12,M,EVENT,YES,NO,0:42,0:44
+2,1.12,L,BEHAVIOR,YES,NO,0:44,0:45

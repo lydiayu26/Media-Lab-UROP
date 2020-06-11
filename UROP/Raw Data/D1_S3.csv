@@ -1,0 +1,71 @@
+Observation id,D1_S3,,,,,,,,
+,,,,,,,,,
+Media file(s),,,,,,,,,
+,,,,,,,,,
+Player #1,/Users/anushkaray/Desktop/D1_S3_output.mp4,,,,,,,,
+,,,,,,,,,
+Observation date,7/25/19 14:59,,,,,,,,
+,,,,,,,,,
+Description,,,,,,,,,
+,,,,,,,,,
+Time offset (s),0,,,,,,,,
+,,,,,,,,,
+independent variables,,,,,,,,,
+variable,value,,,,,,,,
+Visitors,YES,,,,,,,,
+,,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status,Music?
+32.907,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,START,YES
+40.153,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Bobbing,Event,,START,YES
+44.15,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Bobbing,Event,,STOP,YES
+46.401,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,START,YES
+51.402,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Bobbing,Event,,START,YES
+51.402,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,STOP,YES
+54.402,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Bobbing,Event,,STOP,YES
+55.899,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,START,YES
+68.425,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,STOP,YES
+81.196,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Vocalization,Event,,START,NO
+81.449,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Vocalization,Event,,STOP,NO
+85.204,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,START,YES
+102.699,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,STOP,YES
+154.723,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,START,NO
+154.95,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,STOP,NO
+157.981,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,STOP,NO
+159.226,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,START,NO
+159.976,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,STOP,NO
+160.533,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Stretching,Behavior,,START,NO
+167.027,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Stretching,Behavior,,STOP,NO
+310.179,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Pruning,Behavior,,START,NO
+313.188,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Pruning,Behavior,,STOP,NO
+319.696,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,START,NO
+324.196,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Stretching,Behavior,,START,NO
+325.445,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,STOP,NO
+331.199,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Stretching,Behavior,,STOP,NO
+378.748,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Feathers puffing,Behavior,,START,NO
+386.247,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Feathers puffing,Behavior,,STOP,NO
+387.752,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,START,NO
+390.748,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,STOP,NO
+392.747,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,START,NO
+417.751,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Standing on one leg,Behavior,,STOP,NO
+418.749,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,START,NO
+422.25,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,STOP,NO
+441.808,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,START,NO
+443.305,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Moving,Event,,STOP,NO
+445.813,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Feathers puffing,Behavior,,START,NO
+446.314,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Feathers puffing,Behavior,,STOP,NO
+446.314,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,START,YES
+448.813,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Feathers puffing,Behavior,,START,YES
+449.068,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Feathers puffing,Behavior,,STOP,YES
+460.561,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,STOP,YES
+475.082,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,Song change,START,YES
+493.58,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,STOP,YES
+504.091,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,Song change,START,YES
+520.838,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,STOP,YES
+551.162,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,"Song change (back to ""i like to move it"")",START,YES
+554.922,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Vocalization,Event,,START,YES
+555.922,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Vocalization,Event,,STOP,YES
+558.171,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Vocalization,Event,,START,YES
+558.422,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Vocalization,Event,,STOP,YES
+559.922,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,STOP,YES
+573.682,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,Song change (Shake Senora),START,YES
+589.447,/Users/anushkaray/Desktop/D1_S3_output.mp4,616.62,29.97,,Music,Music,,STOP,YES

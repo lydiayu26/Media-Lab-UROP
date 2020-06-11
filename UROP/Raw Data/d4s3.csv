@@ -1,0 +1,239 @@
+Observation id,D4S3,,,,,,,,
+,,,,,,,,,
+Media file(s),,,,,,,,,
+,,,,,,,,,
+Player #1,/Users/lydiayu/Downloads/D4_S3_output.mp4,,,,,,,,
+,,,,,,,,,
+Observation date,9/13/19 0:45,,,,,,,,
+,,,,,,,,,
+Description,,,,,,,,,
+,,,,,,,,,
+Time offset (s),0,,,,,,,,
+,,,,,,,,,
+independent variables,,,,,,,,,
+variable,value,,,,,,,,
+visitors,YES,,,,,,,,
+,,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status,Music
+8.874,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,NO
+9.37,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,NO
+23.379,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,START,NO
+63.374,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+83.377,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+98.875,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+99.873,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+111.874,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+167.125,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+170.125,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+172.126,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+235.093,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+303.92,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+307.167,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+308.171,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,START,NO
+311.928,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+312.178,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+315.179,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+318.429,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+321.179,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+383.677,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+399.181,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+400.678,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+425.294,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+436.308,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+452.808,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+462.302,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,START,NO
+467.831,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+507.623,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,NO
+507.623,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,NO
+508.122,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,NO
+508.627,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,NO
+510.124,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+517.125,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+524.13,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,YES
+524.13,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,START,YES
+529.628,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+532.149,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+532.9,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+584.65,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+665.456,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+679.458,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+681.46,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+682.05,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+684.053,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+688.058,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+688.554,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+689.558,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+698.57,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,YES
+703.571,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+707.576,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+707.576,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,YES
+710.573,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+713.579,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+728.585,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+733.099,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,NO
+733.598,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,NO
+733.612,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+734.099,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+735.604,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+746.619,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,YES
+748.61,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+754.632,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,START,YES
+757.635,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,STOP,YES
+759.126,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+760.132,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+761.128,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+764.126,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+768.38,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+774.877,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+776.883,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+787.375,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+788.404,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,stretching,BEHAVIOR,,START,NO
+791.408,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,stretching,BEHAVIOR,,STOP,NO
+791.908,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+797.405,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,START,NO
+797.405,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+799.416,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+802.915,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+826.419,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+827.917,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+853.418,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+854.971,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+883.972,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+888.475,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+913.47,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+921.972,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1030.147,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1032.644,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,NO
+1034.648,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,NO
+1035.645,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1040.653,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,START,YES
+1043.156,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,STOP,YES
+1043.156,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+1049.163,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,YES
+1054.168,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+1055.665,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1086.666,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1130.668,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1136.502,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1182.547,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1189.041,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1190.059,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,NO
+1190.558,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,NO
+1192.059,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,START,NO
+1194.563,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,STOP,NO
+1210.067,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1220.066,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1222.569,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1226.569,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1227.094,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,NO
+1227.595,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,NO
+1271.61,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1275.109,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1293.097,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1295.605,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1305.108,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,START,NO
+1305.607,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,STOP,NO
+1306.607,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1309.605,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1310.928,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,START,NO
+1311.609,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,STOP,NO
+1314.928,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1316.435,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,START,YES
+1317.93,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,STOP,YES
+1331.199,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,START,YES
+1331.698,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,STOP,YES
+1334.201,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1334.7,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,START,YES
+1334.703,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1337.204,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,STOP,YES
+1339.706,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,START,YES
+1340.705,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,STOP,YES
+1357.204,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,stretching,BEHAVIOR,,START,YES
+1359.708,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,stretching,BEHAVIOR,,STOP,YES
+1365.708,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,stretching,BEHAVIOR,,START,YES
+1384.206,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,stretching,BEHAVIOR,,STOP,YES
+1386.705,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1403.708,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1406.522,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1422.524,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1427.521,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1445.806,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,NO
+1448.806,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,NO
+1454.305,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1457.308,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1458.305,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1465.809,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+1470.833,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1475.836,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1477.309,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,YES
+1478.335,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1506.349,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1510.858,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1512.852,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1518.884,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,START,NO
+1519.854,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1519.883,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nodding,EVENT,,STOP,NO
+1520.885,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1523.392,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1525.388,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1527.893,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1528.894,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1535.394,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1543.897,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1557.413,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,head whips,EVENT,,START,YES
+1560.415,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,head whips,EVENT,,STOP,YES
+1565.411,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,YES
+1566.936,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,YES
+1567.435,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1569.436,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1571.433,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1572.434,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1578.443,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,YES
+1578.943,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,YES
+1579.446,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1585.457,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1587.957,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1593.456,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1598.96,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,YES
+1599.46,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,YES
+1602.97,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,START,YES
+1605.964,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,feathers puffing,BEHAVIOR,,STOP,YES
+1609.467,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1609.974,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nibbling,BEHAVIOR,,START,NO
+1612.98,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1617.977,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nibbling,BEHAVIOR,,START,NO
+1640.474,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1647.012,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,NO
+1647.508,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,NO
+1649.511,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,NO
+1650.015,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1650.511,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1659.515,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1662.026,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,YES
+1662.026,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1664.532,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,YES
+1665.028,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,YES
+1666.029,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,YES
+1666.034,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1671.533,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,STOP,YES
+1671.535,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1677.281,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,START,NO
+1687.285,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,moving,EVENT,,STOP,NO
+1694.306,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+1704.806,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+1706.804,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1708.575,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,START,YES
+1709.578,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,bobbing,EVENT,,STOP,YES
+1714.084,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,START,YES
+1731.58,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1738.581,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,START,YES
+1742.582,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,YES
+1754.08,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,music,MUSIC,,STOP,YES
+1780.148,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,START,NO
+1780.645,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,vocalization,EVENT,,STOP,NO
+1781.125,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,standing on one leg,BEHAVIOR,,STOP,NO
+1781.64,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
+1782.145,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nibbling,BEHAVIOR,,START,NO
+1789.142,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,nibbling,BEHAVIOR,,STOP,NO
+1791.643,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,START,NO
+1834.758,/Users/lydiayu/Downloads/D4_S3_output.mp4,1834.83,29.97,,pruning,BEHAVIOR,,STOP,NO
